@@ -1,0 +1,1 @@
+export const KEY_APPI = "f134f24c42434b25bef765ec5607aa40";
